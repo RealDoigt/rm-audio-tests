@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/rm-audio-tests
+rm-audio-tests.so
+rm-audio-tests.dylib
+rm-audio-tests.dll
+rm-audio-tests.a
+rm-audio-tests.lib
+rm-audio-tests-test-*
+*.exe
+*.o
+*.obj
+*.lst
