@@ -1,0 +1,7 @@
+name "rm-audio-tests"
+description "Test app for the audio module of rm"
+authors "doigt"
+license "mit"
+dependency "raylib-d" version="4.0.0"
+libs "raylib"
+lflags "-L./lib"
